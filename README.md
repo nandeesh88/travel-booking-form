@@ -37,7 +37,7 @@ A **beautiful, responsive web form** for collecting travel requirements from tra
 ## 🚀 Quick Start
 
 1. **View the Form**  
-   Visit: [https://YOUR-USERNAME.github.io/travel-booking-form/](https://YOUR-USERNAME.github.io/travel-booking-form/)
+   Visit: [https://nandeesh88.github.io/travel-booking-form/](https://nandeesh88.github.io/travel-booking-form/)
 
 2. **Test the Form**  
    - Fill out all required fields (marked with *)  
@@ -47,9 +47,7 @@ A **beautiful, responsive web form** for collecting travel requirements from tra
 
 ---
 
-## 📩 Form Handling & Data Storage
-
-Currently, the form logs submissions to the **browser console**. To store data persistently, connect a backend or third-party service:
+⚠️ **Caution:** This form currently only logs submissions to the browser console. To store data permanently, connect it to a backend or third-party service.
 
 - **Formspree** → Simple form backend service. Add an endpoint to `<form>` tag.  
 - **Google Sheets API** → Store submissions directly in a Google Sheet.  
