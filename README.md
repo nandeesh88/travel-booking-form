@@ -50,12 +50,7 @@ A **beautiful, responsive web form** for collecting travel requirements from tra
 ⚠️ **Caution:** 
 - This form currently only logs submissions to the browser console. To store data permanently, connect it to a backend or third-party service.
 - Favicon 404 Warning - Harmless console message, can be fixed by adding a favicon
-
-- **Formspree** → Simple form backend service. Add an endpoint to `<form>` tag.  
-- **Google Sheets API** → Store submissions directly in a Google Sheet.  
-- **Firebase** → Realtime Database or Firestore for secure storage.  
-- **Custom Backend** → Build your own API with Node.js, Python, or any preferred framework.  
-
+  
 ---
 
 ## 💻 Local Development
