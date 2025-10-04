@@ -1,9 +1,11 @@
-✈️ Travel Trip Requirements Form
+**✈️ Travel Trip Requirements Form**
+
 A beautiful, responsive web form for collecting travel requirements from travelers. Built with pure HTML, CSS, and JavaScript - no frameworks required!
-🌐 Live Demo
+
+🌐** Live Demo**
 Visit the live form here: (https://nandeesh88.github.io/travel-booking-form/)
 
-📋 Features
+📋 **Features**
 ✨ Form Sections
 
 👤 Personal Information - Collect customer details (name, email, phone, country)
@@ -13,7 +15,7 @@ Visit the live form here: (https://nandeesh88.github.io/travel-booking-form/)
 🎯 Additional Services - Car rental, tour guide, insurance, visa assistance, activities
 📝 Special Requirements - Dietary restrictions, accessibility needs, custom requests
 
-🎨 Design Features
+🎨** Design Features**
 
 Modern gradient design with smooth animations
 Fully responsive (mobile, tablet, desktop)
@@ -22,7 +24,7 @@ Form validation with visual feedback
 Success/error messages
 Clean, intuitive user interface
 
-🔧 Technical Features
+🔧** Technical Features**
 
 Pure HTML, CSS, and JavaScript (no dependencies)
 Client-side form validation
@@ -32,7 +34,7 @@ JSON data output to browser console
 Easy to integrate with backend services
 
 
-🚀 Quick Start
+🚀 **Quick Start**
 View the Form
 Simply visit: https://YOUR-USERNAME.github.io/travel-booking-form/
 Test the Form
@@ -53,7 +55,7 @@ Some recommended options include:
 - **Firebase** → Use Firebase Realtime Database or Firestore to save form data securely.  
 - **Custom Backend** → Build your own API with Node.js, Python, or any framework of your choice.
 
-💻 Local Development
+💻 **Local Development**
 Option 1: Direct File Opening
 
 Download index.html
