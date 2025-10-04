@@ -62,15 +62,6 @@ Start testing!
 
 Option 2: Local Server
 bash# Clone the repository
-git clone https://github.com/YOUR-USERNAME/travel-booking-form.git
+git clone https://github.com/nandeesh88/travel-booking-form.git
 
-# Navigate to directory
-cd travel-booking-form
 
-# If you have Python installed
-python -m http.server 8000
-
-# Or using Node.js
-npx serve
-
-# Open browser to http://localhost:8000
