@@ -20,7 +20,7 @@ A **beautiful, responsive web form** for collecting travel requirements from tra
 - Modern gradient design with smooth animations  
 - Fully responsive (mobile, tablet, desktop)  
 - Interactive hover effects  
-- Form validation with visual feedback  
+- Form validation with visual feedback 
 - Success/Error messages  
 - Clean, intuitive user interface  
 
